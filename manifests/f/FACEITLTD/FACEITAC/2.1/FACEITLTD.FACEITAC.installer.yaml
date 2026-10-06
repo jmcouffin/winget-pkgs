@@ -1,5 +1,5 @@
-# Automatically updated by the winget bot at 2026/Aug/19
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
+# Automatically updated by the winget bot at 2026/Oct/06
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.28.0.schema.json
 
 PackageIdentifier: FACEITLTD.FACEITAC
 PackageVersion: "2.1"
@@ -16,6 +16,6 @@ UpgradeBehavior: install
 Installers:
 - Architecture: x64
   InstallerUrl: https://anticheat-client.faceit-cdn.net/FACEITInstaller_64.exe
-  InstallerSha256: B9279047042F8570D38067084135F2B790F72F77C684E200677BBD064BA212E0
+  InstallerSha256: F33F94D083F05793F41FF767A2E7E7FDA679C1ECDBA1C2A2F5D83277A0202B2E
 ManifestType: installer
-ManifestVersion: 1.12.0
+ManifestVersion: 1.28.0
