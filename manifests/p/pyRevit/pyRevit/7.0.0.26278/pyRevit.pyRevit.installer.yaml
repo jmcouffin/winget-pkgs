@@ -1,4 +1,5 @@
 # Created using wingetcreate 1.12.13.0
+# Re-run of installer validation after a transient Defender reputation verdict.
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: pyRevit.pyRevit
